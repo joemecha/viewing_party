@@ -13,5 +13,5 @@ script:
 deploy:
   provider: heroku
   api_key: ENV['heroku_app_id']
-  app: joe-joey-viewing-party
+  app: joe-mecha-viewing-party
   run: rails db:migrate
