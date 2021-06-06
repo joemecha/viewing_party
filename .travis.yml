@@ -15,4 +15,3 @@ deploy:
   api_key: ENV['heroku_app_id']
   app: joe-joey-viewing-party
   run: rails db:migrate
-  
