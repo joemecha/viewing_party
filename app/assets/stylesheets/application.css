@@ -25,13 +25,15 @@ main {
   padding-top: 20px;
   padding-left: 25px;
   font-family: "Calibri", Helvetica, sans-serif;
+  color: #F7F4E9;
+  background-color: #1D1D2C;
 }
 
 footer {
   display: flex;
   /* align-self: baseline;
   flex-direction: row; */
-  background-color: rgb(143, 79, 130);
+  background-color: #E40C2B;
 }
 
 img.poster-class {
@@ -39,13 +41,13 @@ img.poster-class {
 }
 
 .mainbody{
-  background-color: rgb(220, 199, 118);
-  color: black;
-  
+  background-color: #1D1D2C;
+  color: #F7F4E9;
+
  }
 .navbar{
   display: flex;
-  background-color: rgb(143, 79, 130);
+  background-color: #E40C2B;
 }
 
 .notice{
