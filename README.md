@@ -26,9 +26,11 @@ Viewing party is an application in which users can explore movies and create a v
   * Displays movie poster images on Movie Detail pages
 
 
-
 ## Link
 ### [https://joe-mecha-viewing-party.herokuapp.com/](https://joe-mecha-viewing-party.herokuapp.com/)
+
+
+![Screenrecording](lib/images/viewing_party_demo.gif)
 
 ## Database Schema
 ![Diagram](lib/images/viewing_party_diagram.jpeg "Database Schema")
@@ -62,12 +64,12 @@ To run this program:
    3. Setup the database: `rails db:create`
 
 ## To-do list:
-~* Add links to movie titles on User's Dashboard - Parties section~
-* Refactoring
-~* Add movie poster images from API~
-* Additional API consumption
-* Front-End styling
+* ~~Add links to movie titles on User's Dashboard Parties section~~
+* ~~Add movie poster images from API~~
+* ~~Additional API consumption~~
+* ~~Front-End styling~~
 * Validate email address format for user registration
+* Refactoring
 
 
 ## Status
@@ -80,4 +82,4 @@ Created by
 
 ~ feel free to contact us ~
 
-![Screenshot](lib/images/ADD-A-SCREENSHOT)
+![Screenshot](lib/images/movie_detail_screenshot.jpeg)
